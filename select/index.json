@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Bloom",
   "base_artist": "HANA",
-  "createdAt": "2026-03-23T10:52:54.938566Z",
+  "createdAt": "2026-03-23T13:17:19.019796Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "HANA",
       "has_synced": false,
       "path": "select/pl_01_Bloom_HANA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Bloom",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/localdb_01_Bloom_HANA.txt",
+      "repo_name": "BHxP40BRE4k"
     }
   ]
 }
