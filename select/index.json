@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Bloom",
+  "base_artist": "HANA",
+  "createdAt": "2026-03-23T10:52:54.938566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In Bloom",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/01_In_Bloom_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Days in Bloom",
+      "artist": "Maximilian Hecker",
+      "has_synced": true,
+      "path": "select/02_Summer_Days_in_Bloom_Maximilian_Hecker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bloom",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Bloom_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bloom (Blawan Rmx)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/04_Bloom_(Blawan_Rmx)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bloom (Harmonic 313 Rmx)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/05_Bloom_(Harmonic_313_Rmx)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bloom (Jamie XX Rework)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/06_Bloom_(Jamie_XX_Rework)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bloom (Mark Pritchard Rmx)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_Bloom_(Mark_Pritchard_Rmx)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bloom (Objekt remix)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/08_Bloom_(Objekt_remix)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bloom (Objekt Rmx)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/09_Bloom_(Objekt_Rmx)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "April Bloom",
+      "artist": "Lior",
+      "has_synced": true,
+      "path": "select/10_April_Bloom_Lior.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In Bloom",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/11_In_Bloom_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In Bloom (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/12_In_Bloom_(Smart_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In Bloom (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/13_In_Bloom_(Smart_Studio_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sonic Bloom",
+      "artist": "The Polyphonic Spree",
+      "has_synced": true,
+      "path": "select/14_Sonic_Bloom_The_Polyphonic_Spree.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hanasakajijii (Three: The Man Who Made Dead Trees Bloom)",
+      "artist": "Anathallo",
+      "has_synced": false,
+      "path": "select/15_Hanasakajijii_(Three__The_Man_Who_Made_Dead_Trees_Bloom)_Anathallo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bloom",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_Bloom_HANA.txt"
+    }
+  ]
+}
